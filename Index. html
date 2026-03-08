@@ -1,0 +1,23 @@
+<!--end list-->
+<!DOCTYPE html>
+<html>
+<head<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>I am building this website on my phone.</p>
+</body>
+</html>
+
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>I am building this website on my phone.</p>
+</body>
+</html>
+
